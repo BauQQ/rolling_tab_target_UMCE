@@ -1,7 +1,7 @@
 # UMCE Rolling Tab Target
 ![Release](https://img.shields.io/badge/release-v0.0.1-blue "Release")
 ### Description
-This addon is for [uMMORPG CEs](https://assetstore.unity.com/packages/templates/systems/ummorpg-components-edition-159401 "uMMORPG CEs"). A simple rolling tab target, with a build in customizable range checker in for UMMORPG CE in the unity editor. The current intentions whit this is to some extend mimic the tabtarget behaviors of World of Warcraft.
+This addon is for [uMMORPG CE](https://assetstore.unity.com/packages/templates/systems/ummorpg-components-edition-159401 "uMMORPG CE"). A simple rolling tab target, with a build in customizable range checker in for UMMORPG CE in the unity editor. The current intentions whit this is to some extend mimic the tabtarget behaviors of World of Warcraft.
 
 ### Features
 
