@@ -10,7 +10,7 @@ This addon is a simple rolling tab target, with a build in customizable range ch
 - Easy to use
 
 
-###How to implement
+### How to implement
 
 - Take the BauTabTargeting and drop into [uMMORPG CEs](https://assetstore.unity.com/packages/templates/systems/ummorpg-components-edition-159401 "uMMORPG CEs") Addons folder
 
