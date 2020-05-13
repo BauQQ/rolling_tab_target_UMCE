@@ -17,20 +17,20 @@ This addon is a simple rolling tab target, with a build in customizable range ch
 - Find PlayerTabTargeting.cs and change it to a partial class
 
 ```javascript
-	public class PlayerTabTargeting 
+public class PlayerTabTargeting 
 ```
 ```javascript
-	public partial class PlayerTabTargeting
+public partial class PlayerTabTargeting
 ```
 
 - Find and comment out the following
 
 ```javascript
-	TargetNearest();
+TargetNearest();
 ```
 - After that insert this:
 
 ```javascript
-	MMOTabTarget();
+MMOTabTarget();
 ```
 
