@@ -40,7 +40,7 @@ MMOTabTarget();
 Example 
 ```javascript
  // key pressed?
-            if (Input.GetKeyDown(key))
-                //TargetNearest();
-                MMOTabTarget();
+ if (Input.GetKeyDown(key))
+  //TargetNearest();
+  MMOTabTarget();
 ```
