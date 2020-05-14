@@ -34,3 +34,6 @@ TargetNearest();
 MMOTabTarget();
 ```
 
+You can choose to completely replace TargetNearest(); with 
+MMOTabTarget();
+
