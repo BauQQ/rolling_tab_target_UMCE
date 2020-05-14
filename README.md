@@ -12,7 +12,7 @@ This addon is for [uMMORPG CE](https://assetstore.unity.com/packages/templates/s
 
 ### How to implement
 
-- Take the BauTabTargeting and drop into [uMMORPG CEs](https://assetstore.unity.com/packages/templates/systems/ummorpg-components-edition-159401 "uMMORPG CEs") Addons folder
+- Take the BauTabTargeting Folder and drop into [uMMORPG CEs](https://assetstore.unity.com/packages/templates/systems/ummorpg-components-edition-159401 "uMMORPG CEs") Addons folder
 
 - Find PlayerTabTargeting.cs and change it to a partial class
 
