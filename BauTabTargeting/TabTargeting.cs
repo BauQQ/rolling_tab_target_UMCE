@@ -38,7 +38,7 @@ public partial class PlayerTabTargeting
             
             //Using any to figure out if monsterInRange List is empty or not - Any() can be used
             if(monstersInRange.Count()>0){
-                //Using ElementAtOrDefault to observer and 
+                //Using ElementAtOrDefault to observe and 
                 //check if the next target is available otherwise default to first mob in list
                 if(monstersInRange.ElementAtOrDefault(nextTarget)!=null){
                     if(MobIsSeenOrNot(monstersInRange[nextTarget])){
