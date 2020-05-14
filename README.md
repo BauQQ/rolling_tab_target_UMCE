@@ -37,3 +37,10 @@ MMOTabTarget();
 You can choose to completely replace TargetNearest(); with 
 MMOTabTarget();
 
+Example 
+```javascript
+ // key pressed?
+            if (Input.GetKeyDown(key))
+                //TargetNearest();
+                MMOTabTarget();
+```
